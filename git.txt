@@ -1,0 +1,4 @@
+ls
+pwd
+cd /home/ubuntu/Desktop
+watch -n=2 echo "Hi This is my First Git hub code" 
