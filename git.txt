@@ -1,4 +1,8 @@
 ls
 pwd
 cd /home/ubuntu/Desktop
-watch -n=2 echo "Hi This is my First Git hub code" 
+sudo apt update -y
+sudo apt upgrade -y
+mkdir nirmal/
+cd nirmal/
+echo "Hello India" >nirmal.txt
