@@ -3,6 +3,6 @@ pwd
 cd /home/ubuntu/Desktop
 sudo apt update -y
 sudo apt upgrade -y
-mkdir nirmal/
-cd nirmal/
-echo "Hello India" >nirmal.txt
+sudo mkdir nirmal/
+sudo cd nirmal/
+sudo echo "Hello India" >nirmal.txt
